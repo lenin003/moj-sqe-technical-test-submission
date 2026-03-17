@@ -65,17 +65,11 @@ Run in cross-browser mode:
 CROSS_BROWSER=true npm test
 ```
 
-## Interview quick demo
-```bash
-HEADED=true npm test
-npx playwright show-report --port 9324
-```
-
 In the report:
 - `[NEGATIVE]` and `[POSITIVE]` steps in the same test
 
 ## Submission
-For this submission, I am providing a zip file with the full project.
+For this submission, I am also providing a zip file with the full project.
 
 Test folders:
 - API tests: `tests/api`
